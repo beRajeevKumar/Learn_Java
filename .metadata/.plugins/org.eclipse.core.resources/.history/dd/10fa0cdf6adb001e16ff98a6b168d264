@@ -1,0 +1,14 @@
+import java.net.*;
+import java.io.*;
+
+public class Client {
+
+	public static void main(String[] args) throws IOException {
+		// TODO Auto-generated method stub
+		Socket s = new Socket("loacalhost", 3000);
+		 
+		
+
+	}
+
+}
