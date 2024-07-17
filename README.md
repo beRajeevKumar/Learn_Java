@@ -32,7 +32,7 @@ Java is a high-level, class-based, object-oriented programming language designed
 ## Resources I Followed
 
 - [JavaTPoint Documentation](https://www.javatpoint.com/java-tutorial)
-- [Tutorials](https://youtu.be/30LWjhZzg50?si=dGXVSeR1SMX5uNs4) by [Apna College](https://youtube.com/playlist?list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop&si=Si5mqE9un2sciC0Z) & [Kunal Kushwaha](https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&si=K2b3qfQ4EeVOD-xo) on YouTube.
+- Java Bootcamps by [Apna College](https://youtube.com/playlist?list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop&si=Si5mqE9un2sciC0Z) & [Kunal Kushwaha](https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&si=K2b3qfQ4EeVOD-xo) on YouTube.
 
 ## Need help?
 
