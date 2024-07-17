@@ -1,10 +1,11 @@
-
 // Defining Variables.
 public class Variables {
     static int m = 100;//static variable
+
     public static void main(String[] args) {
         int data = 50;//instance variable
     }
+
     void method() {
         int n = 90;//local variable
     }
